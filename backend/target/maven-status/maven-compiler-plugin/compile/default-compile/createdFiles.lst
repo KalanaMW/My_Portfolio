@@ -1,0 +1,13 @@
+com\portfolio\api\service\ProjectService.class
+com\portfolio\api\model\ContactMessage.class
+com\portfolio\api\model\Project.class
+com\portfolio\api\service\SkillService.class
+com\portfolio\api\service\ContactService.class
+com\portfolio\api\repository\SkillRepository.class
+com\portfolio\api\controller\SkillController.class
+com\portfolio\api\repository\ProjectRepository.class
+com\portfolio\api\controller\ContactController.class
+com\portfolio\api\model\Skill.class
+com\portfolio\api\controller\ProjectController.class
+com\portfolio\api\PortfolioApiApplication.class
+com\portfolio\api\repository\ContactMessageRepository.class
