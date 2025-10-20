@@ -375,3 +375,4 @@ export class HomeComponent implements OnInit {
     return this.skills.filter(s => s.skillType === skillType);
   }
 }
+
